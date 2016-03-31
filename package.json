@@ -1,0 +1,24 @@
+{
+    "name": "wccards",
+    "description": "扑克掼蛋游戏微信版",
+    "version": "0.1.0",
+    "author": "itutor",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/itutor/wccards.git"
+    },
+    "keywords": [
+                 "wechat",
+                 "card game"
+                 ],
+    "main": "server.js",
+    "dependencies": {
+        "express": "4.13.4",
+        "socket.io": "1.4.5"
+    },
+    "engines": {
+        "node": "5.8.0",
+        "npm": "3.7.3"
+    }
+}
